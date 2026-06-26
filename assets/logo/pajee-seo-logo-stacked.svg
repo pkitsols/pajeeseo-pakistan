@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-labelledby="title desc">
+<title id="title">Pajee SEO Pakistan stacked logo</title>
+<desc id="desc">Stacked square Pajee SEO Pakistan logo for social profiles.</desc>
+<rect width="1080" height="1080" rx="0" fill="#f8fafc"/>
+<g transform="translate(300 130) scale(.94)">
+<defs>
+  <linearGradient id="bg" x1="80" y1="40" x2="440" y2="480" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#0f172a"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="140" y1="80" x2="370" y2="380" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/>
+  </linearGradient>
+</defs>
+<rect x="32" y="32" width="448" height="448" rx="112" fill="url(#bg)"/>
+<path d="M158 366V146h106c68 0 112 39 112 98 0 61-44 100-112 100h-49v22h-57Zm57-76h48c34 0 56-17 56-46 0-28-22-45-56-45h-48v91Z" fill="#ffffff"/>
+<circle cx="366" cy="158" r="24" fill="url(#accent)"/>
+<path d="M335 318l62 62" stroke="#38bdf8" stroke-width="24" stroke-linecap="round"/>
+<circle cx="304" cy="287" r="54" fill="none" stroke="#38bdf8" stroke-width="24"/>
+<circle cx="151" cy="140" r="12" fill="#93c5fd"/>
+</g>
+<text x="540" y="705" text-anchor="middle" font-family="Inter, Geist, Arial, sans-serif" font-size="104" font-weight="780" letter-spacing="-5" fill="#0f172a">Pajee SEO</text>
+<text x="540" y="786" text-anchor="middle" font-family="Inter, Geist, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="7" fill="#2563eb">PAKISTAN</text>
+<text x="540" y="858" text-anchor="middle" font-family="Inter, Geist, Arial, sans-serif" font-size="32" font-weight="450" fill="#64748b">Search visibility. Websites. Digital growth.</text>
+</svg>

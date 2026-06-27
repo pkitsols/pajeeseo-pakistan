@@ -1,0 +1,18 @@
+PAJEE SEO PAKISTAN — FINAL LAUNCH FOLDER
+
+Upload these files to the root of pajeeseo.pk, usually public_html/:
+
+- index.html
+- assets/
+- robots.txt
+- sitemap.xml
+
+After upload, test:
+1. https://pajeeseo.pk/
+2. https://pajeeseo.pk/robots.txt
+3. https://pajeeseo.pk/sitemap.xml
+
+Then submit sitemap in Google Search Console:
+https://pajeeseo.pk/sitemap.xml
+
+Before final publishing, replace social media href="#" links with official Pajee SEO Facebook, LinkedIn and X URLs when those accounts are live.

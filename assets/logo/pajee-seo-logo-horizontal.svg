@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+<title id="title">Pajee SEO Pakistan logo</title>
+<desc id="desc">Horizontal Pajee SEO Pakistan logo with custom P search-signal mark.</desc>
+<defs>
+  <linearGradient id="bg" x1="30" y1="20" x2="330" y2="370" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#111827"/>
+    <stop offset="1" stop-color="#0f172a"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="100" y1="60" x2="300" y2="330" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#38bdf8"/>
+    <stop offset="1" stop-color="#2563eb"/>
+  </linearGradient>
+</defs>
+<rect x="40" y="50" width="320" height="320" rx="82" fill="url(#bg)"/>
+<path d="M130 286V134h74c47 0 78 27 78 68 0 42-31 70-78 70h-34v14h-40Zm40-53h34c24 0 39-12 39-32 0-20-15-32-39-32h-34v64Z" fill="#ffffff"/>
+<circle cx="273" cy="143" r="17" fill="url(#accent)"/>
+<path d="M251 255l43 43" stroke="#38bdf8" stroke-width="17" stroke-linecap="round"/>
+<circle cx="229" cy="233" r="38" fill="none" stroke="#38bdf8" stroke-width="17"/>
+<text x="420" y="198" font-family="Inter, Geist, Arial, sans-serif" font-size="96" font-weight="750" letter-spacing="-4" fill="#0f172a">Pajee SEO</text>
+<text x="424" y="275" font-family="Inter, Geist, Arial, sans-serif" font-size="42" font-weight="650" letter-spacing="5" fill="#2563eb">PAKISTAN</text>
+<text x="424" y="326" font-family="Inter, Geist, Arial, sans-serif" font-size="31" font-weight="450" letter-spacing=".2" fill="#64748b">SEO • Local SEO • Websites • Digital Growth</text>
+</svg>

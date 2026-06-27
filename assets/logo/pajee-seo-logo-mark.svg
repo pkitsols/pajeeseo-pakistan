@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<title id="title">Pajee SEO Pakistan mark</title>
+<desc id="desc">A custom P monogram with search signal nodes for Pajee SEO Pakistan.</desc>
+<defs>
+  <linearGradient id="bg" x1="80" y1="40" x2="440" y2="480" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#111827"/>
+    <stop offset="1" stop-color="#0f172a"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="140" y1="80" x2="370" y2="380" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#38bdf8"/>
+    <stop offset="1" stop-color="#2563eb"/>
+  </linearGradient>
+</defs>
+<rect x="32" y="32" width="448" height="448" rx="112" fill="url(#bg)"/>
+<path d="M158 366V146h106c68 0 112 39 112 98 0 61-44 100-112 100h-49v22h-57Zm57-76h48c34 0 56-17 56-46 0-28-22-45-56-45h-48v91Z" fill="#ffffff"/>
+<circle cx="366" cy="158" r="24" fill="url(#accent)"/>
+<path d="M335 318l62 62" stroke="#38bdf8" stroke-width="24" stroke-linecap="round"/>
+<circle cx="304" cy="287" r="54" fill="none" stroke="#38bdf8" stroke-width="24"/>
+<circle cx="151" cy="140" r="12" fill="#93c5fd"/>
+</svg>

@@ -1,0 +1,65 @@
+PAJEE SEO PAKISTAN — SEO CHECK REPORT
+
+Title: SEO Services Pakistan | SEO Company Islamabad | Pajee SEO
+Title length: 57
+Meta description: Pajee SEO Pakistan provides SEO services in Islamabad and across Pakistan, including local SEO, technical SEO, web development and digital marketing.
+Meta description length: 149
+Robots meta: index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+Canonical: https://pajeeseo.pk/
+
+H1 count: 1
+H1: SEO services in Pakistan for businesses that need leads, not guesswork.
+H2: One Islamabad SEO partner for visibility, websites and qualified leads.
+H3: SEO Services
+H3: Local SEO
+H3: Technical SEO
+H3: Web Development
+H3: UI/UX Design
+H3: Branding
+H3: Mobile App Development
+H3: Digital Marketing
+H3: Not sure where to start?
+H2: Physical office in Islamabad. SEO services for businesses across Pakistan.
+H3: Local search work includes
+H2: SEO services by city, delivered from Islamabad for businesses across Pakistan.
+H3: SEO services in Islamabad
+H3: SEO services in Rawalpindi
+H3: SEO services in Lahore
+H3: SEO services in Karachi
+H3: SEO services in Faisalabad
+H3: SEO services across Pakistan
+H2: A clear SEO process before execution.
+H3: Audit
+H3: Map
+H3: Fix
+H3: Build
+H3: Grow
+H2: SEO work designed around search intent and contact actions.
+H3: Local SEO and GBP foundation
+H3: Category SEO architecture
+H3: Website and technical SEO rebuild
+H2: Visit or contact Pajee SEO Pakistan in Islamabad.
+H3: Pajee SEO Pakistan
+H2: Start with the level of support your business needs now.
+H3: SEO Audit
+H3: Monthly SEO Growth
+H3: Website + SEO Build
+H2: Questions before you book an SEO consultation.
+H2: Tell us what you want your website to achieve.
+H3: Services
+H3: Office Location
+H3: Contact
+
+JSON-LD schema blocks: 4
+Schema 1: VALID JSON-LD type=['LocalBusiness', 'ProfessionalService']
+Schema 2: VALID JSON-LD type=FAQPage
+Schema 3: VALID JSON-LD type=WebSite
+Schema 4: VALID JSON-LD type=WebPage
+
+Local asset references checked: 3
+Missing local assets: None
+
+Notes:
+- Islamabad physical office is used in NAP/schema.
+- Pakistan-wide service coverage is used in copy and schema areaServed.
+- Social profile URLs still need official live links if available; current placeholders do not affect schema because they are not added to sameAs.
